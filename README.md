@@ -18,9 +18,9 @@ ___
 ___
 ![alt text](https://github.com/premmody312/LivePerSquareFoot/blob/master/features/f7.jpg)
 ___
-![alt text](https://github.com/premmody312/LivePerSquareFoot/blob/master/features/f8.jpg)
+![alt text](https://github.com/premmody312/LivePerSquareFoot/blob/master/features/f8.png)
 ___
-![alt text](https://github.com/premmody312/LivePerSquareFoot/blob/master/features/f9.jpg)
+![alt text](https://github.com/premmody312/LivePerSquareFoot/blob/master/features/f9.png)
 ___
 
 ## Screenshots
@@ -31,7 +31,7 @@ ___
 ___
 ![alt text](https://github.com/premmody312/LivePerSquareFoot/blob/master/screenshots/p3.jpg)
 ___
-![alt text](https://github.com/premmody312/LivePerSquareFoot/blob/master/screenshots/p4.jpg)
+![alt text](https://github.com/premmody312/LivePerSquareFoot/blob/master/screenshots/p4.png)
 ___
 ![alt text](https://github.com/premmody312/LivePerSquareFoot/blob/master/screenshots/p5.jpg)
 ___
